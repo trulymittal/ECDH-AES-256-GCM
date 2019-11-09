@@ -1,0 +1,20 @@
+{
+  "name": "ecdh-aes-256-gcm",
+  "version": "1.0.0",
+  "description": "This repo describes how to use the **shared secret** (generated using **ECDH** between two clients - Alice and Bob) to send authenticated encrypted messages between them using **AES-256-GCM**",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trulymittal/ECDH-AES-256-GCM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trulymittal/ECDH-AES-256-GCM/issues"
+  },
+  "homepage": "https://github.com/trulymittal/ECDH-AES-256-GCM#readme",
+  "dependencies": {}
+}
